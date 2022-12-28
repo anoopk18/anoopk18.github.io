@@ -47,8 +47,33 @@ supporting Boeing’s goal of Zero Parts Departing Airplane (PDA) safety events
    * Analyzed cost reduction on Trent XWB & JAS39 Gripen engine components and deduced reasonable estimates on
 different aspects of product lifecycle performance
    * Contributed to turbomachinery analysis for Boeing 777X-GE9X engine through productivity comparisons
-   * Performed flight physics using MATLAB to simulate the lander mechanism for varying flying conditions
-  
+   * Performed flight physics using MATLAB to simulate the lander mechanism for varying flying conditions 
+
+Leadership
+======
+* Fall 2019 & Spring 2020: Technical Operations Co-lead
+  NASA Micro-G NExT Student Design Challenge
+  Project: NASA-2020 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) 
+  Duties included: 
+   * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
+in distress within a maritime environment
+   * Piloted the integration of Pi (portable lightweight) camera with TensorFlow software to perform astronaut determination 
+   * Devised feedback control mechanism between software and motor control, changing course for optimal location estimation
+   * Documented procedures, suggesting improvements to existing design based on structural constraints and testing done 
+at the Neutral Buoyancy Laboratory, NASA Johnson Space Center
+
+* Fall 2018 & Spring 2019: Project Associate
+  State University of New York Engineering Science Intramural
+  Project: Unmanned Aerial Vehicles (UAV) Design, Build and Fly
+  Duties included: 
+   * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
+in distress within a maritime environment
+   * Delegated a team of 5 students to design, build and pilot a mini-UAV by meeting all constraints of the test including 
+cost, dimension, and part constraints 
+   * Formulated the project to devise design evolution, electrical, mechanical & software analysis, and selected 
+components to reach required lift and payload 
+   * Presented our proposal and research objective to the Engineering Dean’s Advisory Council
+
 Skills
 ======
 * Drafting: Siemens NX, SolidWorks, Autodesk - Fusion 360 & Inventor, Creo, PowerPoint Engineering
