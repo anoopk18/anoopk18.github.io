@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Math & Physics Tutor,"
 collection: teaching
-type: "Undergraduate course"
+type: "Lower-level Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: " Rockland Community College, Suffern, NY"
+date: 2018-01-01 - 2018-07-01
+location: "Suffern, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Geometry, Algebra 1 & 2, Trigonometry, Pre-Calculus, Physics - Newtonian, Physics - Electricity and Magnetism
+* Providing private instruction to individual and small groups of students to improve academic performance,
+occupational skills, and as preparation for tests.
+* Providing feedback to students using positive reinforcement techniques to encourage, motivate, or build confidence 
+in students.
+* Developing activities and problem sets to work with students and increased interest in higher learning.
+* Fostering meaningful relationships among students through teamwork community service projects.
