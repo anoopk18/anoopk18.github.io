@@ -66,7 +66,7 @@ supporting Boeing’s goal of Zero Parts Departing Airplane (PDA) safety events
   *GKN Aerospace, Dallas, TX*
   
    * Analyzed cost reduction on Trent XWB & JAS39 Gripen engine components and deduced reasonable estimates on
-different aspects of product lifecycle performance
+a variety aspects of product lifecycle performance
    * Contributed to turbomachinery analysis for Boeing 777X-GE9X engine through productivity comparisons
    * Performed flight physics using MATLAB to simulate the lander mechanism for varying flying conditions 
 
