@@ -9,6 +9,7 @@ redirect_from:
 ---
  
 > Inspiration: "Once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return"
+> 
 - Leonardo da Vinci
 
 Anoop Kiran is a graduate student pursuing research at the intersection of aerial robotics and unsteady aerodynamics at the School of Engineering at Brown University. He is co-advised by Dr. Kenny Breuer and Dr. Nora Ayanian. Anoop is passionate about developing novel control framework for intelligent autonomous systems, studying fluid-structure interaction of aerial vehicles in the presence of disturbances, and applying engineering principles to elucidate dynamics and kinematics for humanitarian applications, including search & rescue and last-mile problems. 
