@@ -12,16 +12,23 @@ redirect_from:
 Education
 ======
 * Ph.D. in Engineering, Brown University, 2027 (expected) 
-  GPA: 4.0/4.0; Concentration: Fluids & Thermal Sciences, Minor Area: Dynamics & Control
+
+  Concentration: Fluids & Thermal Sciences; Minor Area: Dynamics & Control
+  GPA: 4.0/4.0
+  
 * B.S. in Aerospace Engineering, University at Buffalo, The State University of New York, 2022  
+  
   GPA 4.0/4.0
 
 Engineering experience
 ======
 * Summer 2022: Spacecraft Mechanical Engineering Intern
+
   NASA Jet Propulsion Laboratory (JPL), Pasadena, CA
+  
   Mechanical Structures & Articulation group (352C) - Graduate Student Internship
   Supervisor: Nicholas Haddad
+
   Duties included: 
    * Performed comprehensive bolted joint structural analyses for the Mars Sample Retriever Lander (SRL) test fixture
    * Led mesh convergence study for spacecraft deployable cup-cone separation interface
@@ -29,9 +36,12 @@ Engineering experience
    * Prepared technical documentation for assembly and integration of flight hardware and ground support equipments
 
 * Summer 2021: Structures Technology Engineering Intern
+
   The Boeing Company, Seattle, WA
+  
   Advanced Structural Analysis, Boeing Research and Technology (BR&T)
   Supervisor: Gerardo Pena
+  
   Duties included: 
    * Partnered with lead engineers to improve stress analysis on projectile impacting fuselage for the 767 model, resulting 
 in task completion at half the proposed timeline
@@ -42,18 +52,22 @@ in task completion at half the proposed timeline
 supporting Boeing’s goal of Zero Parts Departing Airplane (PDA) safety events 
 
 * Summer 2020: Mechanical Engineering Intern
+
   GKN Aerospace, Dallas, TX
+  
   Duties included:
    * Analyzed cost reduction on Trent XWB & JAS39 Gripen engine components and deduced reasonable estimates on
 different aspects of product lifecycle performance
    * Contributed to turbomachinery analysis for Boeing 777X-GE9X engine through productivity comparisons
    * Performed flight physics using MATLAB to simulate the lander mechanism for varying flying conditions 
 
-Leadership
+Leadership experience
 ======
 * Fall 2019 & Spring 2020: Technical Operations Co-lead
+
   NASA Micro-G NExT Student Design Challenge
   Project: NASA-2020 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) 
+  
   Duties included: 
    * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
 in distress within a maritime environment
@@ -63,8 +77,10 @@ in distress within a maritime environment
 at the Neutral Buoyancy Laboratory, NASA Johnson Space Center
 
 * Fall 2018 & Spring 2019: Project Associate
+
   State University of New York Engineering Science Intramural
   Project: Unmanned Aerial Vehicles (UAV) Design, Build and Fly
+  
   Duties included: 
    * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
 in distress within a maritime environment
