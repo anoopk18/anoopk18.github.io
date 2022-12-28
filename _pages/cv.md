@@ -38,7 +38,7 @@ Engineering experience
   
   Mechanical Structures & Articulation group (352C) - Graduate Student Internship
   
-  Supervisor: Nicholas Haddad
+  Supervisor: Nicolas Haddad
 
    * Performed comprehensive bolted joint structural analyses for the Mars Sample Retriever Lander (SRL) test fixture
    * Led mesh convergence study for spacecraft deployable cup-cone separation interface
@@ -76,14 +76,14 @@ Leadership experience
 
  *NASA Micro-G NExT Student Design Challenge*
  Project: NASA-2020 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) 
-  
-     * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
+ 
+    * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
 in distress within a maritime environment
-     * Piloted the integration of Pi (portable lightweight) camera with TensorFlow software to perform astronaut determination 
-     * Devised feedback control mechanism between software and motor control, changing course for optimal location estimation
-     * Documented procedures, suggesting improvements to existing design based on structural constraints and testing done 
+    * Piloted the integration of Pi (portable lightweight) camera with TensorFlow software to perform astronaut determination
+    * Devised feedback control mechanism between software and motor control, changing course for optimal location estimation
+    * Documented procedures, suggesting improvements to existing design based on structural constraints and testing done 
 at the Neutral Buoyancy Laboratory, NASA Johnson Space Center
-
+ 
 * Fall 2018 & Spring 2019: Project Associate
 
   *State University of New York Engineering Science Intramural*
