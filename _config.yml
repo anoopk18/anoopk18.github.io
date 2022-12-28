@@ -83,14 +83,13 @@ author:
   name             : "Anoop Kiran"
   avatar           : "profile.png"
   bio              : "PhD Student at Brown University"
-  location         : "Providence, RI"
+  location         : "345 Brook St., Providence, RI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=sh-wHGwAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Anoop-Kiran-2"
+  researchgate     :  "https://www.researchgate.net/profile/Anoop-Kiran-2"
   uri              :
   bitbucket        :
-  codepen          :
   dribbble         :
   flickr           :
   facebook         :
