@@ -17,6 +17,7 @@ Education
   *Concentration: Fluids & Thermal Sciences; Minor Area: Dynamics & Control*
   
   National Science Foundation Graduate Research Fellow
+  
   American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week 20 Twenties
   
   *GPA: 4.0/4.0*
@@ -24,6 +25,7 @@ Education
 * B.S. in Aerospace Engineering, University at Buffalo, The State University of New York, 2022  
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
+  
   Ronald E. McNair Scholar, United States Department of Education
   
   *GPA 4.0/4.0*
