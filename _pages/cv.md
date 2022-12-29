@@ -12,16 +12,16 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Engineering** [*GPA: 4.0/4.0*]; Brown University, May 2027 (expected) 
+* **Ph.D. in Engineering** [GPA: 4.0/4.0], May 2027 (expected); ***Brown University***
 
   *Concentration: Fluids & Thermal Sciences; Minor Area: Dynamics & Control*
   
   National Science Foundation (NSF) Graduate Research Fellow
   
-  20 Twenties - American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
+  20 Twenties: American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
   
   
-* **B.S. in Aerospace Engineering** [*GPA: 4.0/4.0*]; University at Buffalo, The State University of New York, May 2022 
+* **B.S. in Aerospace Engineering** [GPA: 4.0/4.0], May 2022; ***University at Buffalo, The State University of New York***
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
   
