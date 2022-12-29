@@ -8,10 +8,10 @@ date: 2018-01-01 - 2018-07-01
 location: "Suffern, NY"
 ---
 
-Geometry, Algebra 1 & 2, Trigonometry, Pre-Calculus, Physics - Newtonian, Physics - Electricity and Magnetism
-* Providing private instruction to individual and small groups of students to improve academic performance,
-occupational skills, and as preparation for tests.
-* Providing feedback to students using positive reinforcement techniques to encourage, motivate, or build confidence 
-in students.
-* Developing activities and problem sets to work with students and increased interest in higher learning.
-* Fostering meaningful relationships among students through teamwork community service projects.
+**Geometry, Algebra 1 & 2, Trigonometry, Pre-Calculus, Physics - Newtonian, Physics - Electricity and Magnetism**
+* Provided private instruction to individual and groups of students to improve academic performance,
+occupational skills, and preparation for tests.
+* Developed activities and problem sets to work with students and increased interest in higher learning.
+* Provided feedback to students using positive reinforcement techniques to encourage, motivate, and build confidence 
+among students.
+* Fostered meaningful relationships among students through teamwork community service projects.
