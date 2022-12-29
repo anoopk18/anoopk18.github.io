@@ -18,11 +18,11 @@ Education
   
   National Science Foundation (NSF) Graduate Research Fellow
   
-  American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week's 20 Twenties
+  20 Twenties - American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
   
   *GPA: 4.0/4.0*
   
-* B.S. in Aerospace Engineering, University at Buffalo, The State University of New York, 2022  
+* B.S. in Aerospace Engineering, University at Buffalo, The State University of New York, May 2022  
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
   
@@ -36,14 +36,14 @@ Engineering experience
 
   *NASA Jet Propulsion Laboratory (JPL), Pasadena, CA*
   
-  Mechanical Structures & Articulation group (352C) - Graduate Student Internship
+  Mechanical Structures & Articulation group - Graduate Student Internship
   
   Supervisor: Nicolas Haddad
 
-   * Performed comprehensive bolted joint structural analyses for the Mars Sample Retriever Lander (SRL) test fixture
+   * Performed comprehensive bolted joint structural analyses in FEMAP for the Mars Sample Retriever Lander (SRL) test fixture
    * Led mesh convergence study for spacecraft deployable cup-cone separation interface
    * Orchestrated flight system Assembly, Test, and Launch Operations (ATLO) for the Europa Clipper mission
-   * Prepared technical documentation for assembly and integration of flight hardware and ground support equipments
+   * Prepared technical documentation for assembly and integration of mission critical flight hardware and ground support equipments
 
 * Summer 2021: Structures Technology Engineering Intern
 
@@ -65,7 +65,7 @@ supporting Boeing’s goal of Zero Parts Departing Airplane (PDA) safety events
 
   *GKN Aerospace, Dallas, TX*
   
-   * Analyzed cost reduction on Trent XWB & JAS39 Gripen engine components and deduced reasonable estimates on
+   * Analyzed cost reduction on the Trent XWB & JAS39 Gripen engine components and deduced reasonable estimates on
 a variety aspects of product lifecycle performance
    * Contributed to turbomachinery analysis for Boeing 777X-GE9X engine through productivity comparisons
    * Performed flight physics using MATLAB to simulate the lander mechanism for varying flying conditions 
