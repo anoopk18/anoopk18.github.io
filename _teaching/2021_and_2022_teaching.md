@@ -1,5 +1,5 @@
 ---
-title: "Engineering Teaching Assistant and Academic Tutor"
+title: "Teaching Assistant and Academic Tutor"
 collection: teaching
 type: "Upper-level undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
@@ -21,7 +21,7 @@ location: "Buffalo, NY"
 • Developed test-taking strategies, resulting in significant improvement in student performance for quizzes and exams
 
 
-* Engineering Teaching Assistant, University at Buffalo School of Engineering and Applied Sciences
+* Teaching Assistant, University at Buffalo School of Engineering and Applied Sciences
 
 *Jan 2021 – Dec 2021*
 
