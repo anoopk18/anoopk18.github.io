@@ -1,9 +1,9 @@
 ---
-title: "Math & Physics Tutor,"
+title: "Math & Physics Tutor"
 collection: teaching
 type: "Lower-level Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: " Rockland Community College, Suffern, NY"
+venue: "Rockland Community College, Suffern, NY"
 date: 2018-01-01 - 2018-07-01
 location: "Suffern, NY"
 ---
