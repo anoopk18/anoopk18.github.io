@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,6 @@ redirect_from:
 
 ---
 
-Anoop Kiran is a graduate student pursuing research at the intersection of aerial robotics and unsteady aerodynamics at the School of Engineering at Brown University. He is co-advised by Dr. Kenny Breuer and Dr. Nora Ayanian. Anoop is passionate about developing novel control framework for intelligent autonomous systems, studying fluid-structure interaction of aerial vehicles in the presence of disturbances, and applying engineering principles to elucidate dynamics and kinematics for humanitarian applications, including search & rescue and last-mile problems. 
+Anoop Kiran is a graduate student pursuing research at the intersection of aerial robotics and unsteady aerodynamics at the School of Engineering, Brown University. He is co-advised by Dr. Kenny Breuer and Dr. Nora Ayanian. Anoop is passionate about developing novel control framework for intelligent autonomous systems, studying fluid-structure interaction of aerial vehicles flying in adverse environmental conditions, and applying engineering principles to elucidate dynamics and kinematics for broader humanitarian applications, including search & rescue, and last-mile problems. 
 
-Prior to Brown, he graduated Summa cum laude with a Bachelor's degree in Aerospace Engineering from the University at Buffalo, The State University of New York. There he worked under the guidance of Dr. Francis Lagor, researching unsteady aerodynamics of aerial vehicles in the presence of gust, and Dr. John Crassidis on positioning and control for satellite rendezvous and formation flight.
+Prior to Brown, he graduated summa cum laude with a Bachelor's degree in Aerospace Engineering from the University at Buffalo, The State University of New York. There he worked under the guidance of Dr. Francis Lagor, researching unsteady aerodynamics of aerial vehicles in the presence of gust, and Dr. John Crassidis on positioning and control for satellite rendezvous and formation flight.
