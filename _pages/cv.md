@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Engineering, Brown University, 2027 (expected) 
+* Ph.D. in Engineering; Brown University, 2027 (expected) 
 
   *Concentration: Fluids & Thermal Sciences; Minor Area: Dynamics & Control*
   
@@ -22,7 +22,7 @@ Education
   
   *GPA: 4.0/4.0*
   
-* B.S. in Aerospace Engineering, University at Buffalo, The State University of New York, May 2022  
+* B.S. in Aerospace Engineering; University at Buffalo, The State University of New York, May 2022  
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
   
