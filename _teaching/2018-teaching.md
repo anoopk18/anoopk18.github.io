@@ -9,7 +9,7 @@ location: "Suffern, NY"
 ---
 
 **Geometry, Algebra 1 & 2, Trigonometry, Pre-Calculus, Physics - Newtonian, Physics - Electricity and Magnetism**
-* Math & Physics Tutor, *Rockland Community College, Suffern, NY*
+* Tutoring & Academic Services, *Rockland Community College, Suffern, NY*
   * Provided private instruction to individual and groups of students to improve academic performance,
 occupational skills, and preparation for tests
   * Developed activities and problem sets to work with students and increased interest in higher learning
