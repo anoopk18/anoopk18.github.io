@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "   Anoop Kiran"
+  name             : "Anoop Kiran"
   avatar           : "profile.png"
   bio              : "PhD Student at Brown University"
-  location         : "184 Hope St., Brown University, Providence, RI"
+  location         : "184 Hope St, Brown University, RI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=sh-wHGwAAAAJ&hl=en&authuser=1"
   email            : "anoop_kiran@brown.edu"
