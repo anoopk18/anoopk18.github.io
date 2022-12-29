@@ -1,7 +1,7 @@
 ---
 title: "Engineering Teaching Assistant and Academic Tutor"
 collection: teaching
-type: "Upper-level undergraduate courses"
+type: "Upper-level Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University at Buffalo"
 date: 2021-01-01 - 2022-06-01
