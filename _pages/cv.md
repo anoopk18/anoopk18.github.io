@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Engineering; Brown University, 2027 (expected) 
+* **Ph.D. in Engineering** [*GPA: 4.0/4.0*]; Brown University, May 2027 (expected) 
 
   *Concentration: Fluids & Thermal Sciences; Minor Area: Dynamics & Control*
   
@@ -20,16 +20,14 @@ Education
   
   20 Twenties - American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
   
-  *GPA: 4.0/4.0*
   
-  
-* B.S. in Aerospace Engineering; University at Buffalo, The State University of New York, May 2022  
+* **B.S. in Aerospace Engineering** [*GPA: 4.0/4.0*]; University at Buffalo, The State University of New York, May 2022 
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
   
   Ronald E. McNair Scholar, United States Department of Education
   
-  *GPA 4.0/4.0*
+  
 
 Engineering experience
 ======
