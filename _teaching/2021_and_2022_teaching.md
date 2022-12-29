@@ -9,7 +9,7 @@ location: "Buffalo, NY"
 ---
 
 
-* Academic Tutor, University at Buffalo Tutoring and Academic Support Services *
+* Academic Tutor, University at Buffalo Tutoring and Academic Support Services 
 
 *Jan 2022 – June 2022*
 
@@ -19,7 +19,7 @@ location: "Buffalo, NY"
 • Attended tutor training sessions to implement proven study skills among students
 • Developed test-taking strategies, resulting in significant improvement in student performance for quizzes and exams
 
-* Engineering Teaching Assistant, University at Buffalo School of Engineering and Applied Sciences *
+* Engineering Teaching Assistant, University at Buffalo School of Engineering and Applied Sciences
 
 *Jan 2021 – Dec 2021*
 
