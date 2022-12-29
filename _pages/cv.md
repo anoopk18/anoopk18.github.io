@@ -131,5 +131,5 @@ Teaching
   
 Service 
 ======
-* University at Buffalo Engineering Alumni Association - Awards Committee                  *Oct 2022 - Present*
-* American Institute of Aeronautics and Astronautics (AIAA) Young Professional Committee   *Dec 2022 - Present*
+* University at Buffalo Engineering Alumni Association - Awards Committee,                  *Oct 2022 - Present*
+* American Institute of Aeronautics and Astronautics (AIAA) Young Professional Committee,   *Dec 2022 - Present*
