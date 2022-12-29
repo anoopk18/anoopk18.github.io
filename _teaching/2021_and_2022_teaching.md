@@ -22,4 +22,4 @@ location: "Buffalo, NY"
   * Graded testing materials for 200+ students and developed comprehensive solutions to questions
   * Reviewed lessons and lectures with students on a one-on-one basis as well as small groups
   * Assisted students with special learning requirements, including disabilities or English as second language
-  * Effectively communicated with teachers and parents regarding student's academic progress
+  * Effectively communicated with teachers and parents regarding student academic progress
