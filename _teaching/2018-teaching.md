@@ -11,8 +11,8 @@ location: "Suffern, NY"
 **Geometry, Algebra 1 & 2, Trigonometry, Pre-Calculus, Physics - Newtonian, Physics - Electricity and Magnetism**
 * Math & Physics Tutor, *Rockland Community College, Suffern, NY*
   * Provided private instruction to individual and groups of students to improve academic performance,
-occupational skills, and preparation for tests.
-  * Developed activities and problem sets to work with students and increased interest in higher learning.
+occupational skills, and preparation for tests
+  * Developed activities and problem sets to work with students and increased interest in higher learning
   * Provided feedback to students using positive reinforcement techniques to encourage, motivate, and build confidence 
-among students.
-  * Fostered meaningful relationships among students through teamwork community service projects.
+among students
+  * Fostered meaningful relationships among students through teamwork community service projects
