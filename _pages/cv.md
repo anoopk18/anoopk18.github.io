@@ -22,6 +22,7 @@ Education
   
   *GPA: 4.0/4.0*
   
+  
 * B.S. in Aerospace Engineering; University at Buffalo, The State University of New York, May 2022  
   
   2021 Barry Goldwater Scholar, DoD National Defense Education Programs
@@ -36,7 +37,7 @@ Engineering experience
 
   *NASA Jet Propulsion Laboratory (JPL), Pasadena, CA*
   
-  Mechanical Structures & Articulation group - Graduate Student Internship
+  **Mechanical Structures & Articulation group - Graduate Student Internship**
   
   Supervisor: Nicolas Haddad
 
@@ -49,7 +50,7 @@ Engineering experience
 
   *The Boeing Company, Seattle, WA*
   
-  Advanced Structural Analysis, Boeing Research and Technology (BR&T)
+  **Advanced Structural Analysis, Boeing Research and Technology (BR&T)**
   
   Supervisor: Gerardo Pena
    
@@ -76,8 +77,8 @@ Leadership experience
 
   *NASA Micro-G NExT Student Design Challenge*
   
-  Project: NASA-2020 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition 
-(Top 4 universities at national level [Phase-2])
+  **Project: NASA-2020 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition 
+(Top 4 universities at national level [Phase-2])**
  
    * Proposed a solution to the SAVER challenge, which required a fully autonomous UAV capable of assisting astronauts 
 in distress within a maritime environment
@@ -90,7 +91,7 @@ at the Neutral Buoyancy Laboratory, NASA Johnson Space Center
 
   *State University of New York Engineering Science Intramural*
   
-  Project: Unmanned Aerial Vehicles (UAV) Design, Build and Fly
+  **Project: Unmanned Aerial Vehicles (UAV) Design, Build and Fly**
  
    * Delegated a team of 5 students to design, build and pilot a mini-UAV by meeting all constraints of the test including 
 cost, dimension, and part constraints 
@@ -130,5 +131,5 @@ Teaching
   
 Service 
 ======
-* University at Buffalo Engineering Alumni Association - Awards Committee                  Oct 2022 - Present
-* American Institute of Aeronautics and Astronautics (AIAA) Young Professional Committee   Dec 2022 - Present
+* University at Buffalo Engineering Alumni Association - Awards Committee                  *Oct 2022 - Present*
+* American Institute of Aeronautics and Astronautics (AIAA) Young Professional Committee   *Dec 2022 - Present*
