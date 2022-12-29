@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anoop Kiran"
+title                    : "Anoop J. Kiran"
 title_separator          : "-"
-name                     : &name "Anoop Kiran"
+name                     : &name "Anoop J. Kiran"
 description              : &description "About me"
 url                      : https://anoopk18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,19 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "   Anoop Kiran"
+  name             : "Anoop Kiran"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-                      
-                      "School of Engineering"
-                      
-                      "Brown University"
-                      
+  bio              : "PhD Student at Brown University"
   location         : "184 Hope St, Providence, RI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=sh-wHGwAAAAJ&hl=en&authuser=1"
   email            : "anoop_kiran@brown.edu"
-  researchgate     : "/Anoop-Kiran-2"
+  researchgate     : "https://www.researchgate.net/profile/Anoop-Kiran-2"
   uri              :
   bitbucket        :
   dribbble         :
