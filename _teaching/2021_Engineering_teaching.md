@@ -3,8 +3,7 @@ title: "Engineering Teaching Assistant"
 collection: teaching
 type: "Upper-level Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University at Buffalo School of Engineering and Applied Sciences"
-date: 2021-01-01 - 2021-12-01
+venue: "University at Buffalo School of Engineering and Applied Sciences (SEAS)"
 location: "Buffalo, NY"
 ---
 
