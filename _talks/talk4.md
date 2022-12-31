@@ -1,5 +1,5 @@
 ---
-title: "Computational Fluid Dynamics (CFD) study of aircraft wing in transverse gust encounter"
+title: "Computational Fluid Dynamics (CFD) of aircraft wing in transverse gust encounter"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2014-03-01-talk-3
