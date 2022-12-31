@@ -10,4 +10,5 @@ citation: 'Colpari, R., Sajjad, N., Kiran, A. et al. Conceptual analysis for a t
 ---
 
 This paper is centered around an in-orbit demonstration for active debris removal by the Ion Beam Shepherd.
+
 [Publication link](http://anoopk18.github.io/files/paper1.pdf)
