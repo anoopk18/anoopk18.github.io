@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Conceptual analysis for a technology demonstration mission of the Ion Beam Shepherd (IBS)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is an in orbit demonstration for active debris removal delpoyment of the ion beam shepherd.'
+date: 2022-07-29
+venue: '*CEAS Space Journal*'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Colpari, R., Sajjad, N., Kiran, A. et al. Conceptual analysis for a technology demonstration mission of the ion beam shepherds. CEAS Space J (2022). https://doi.org/10.1007/s12567-022-00464-x'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+This paper is an in orbit demonstration for active debris removal delpoyment of the ion beam shepherd
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Colpari, R., Sajjad, N., Kiran, A. et al. Conceptual analysis for a technology demonstration mission of the ion beam shepherds. CEAS Space J (2022). https://doi.org/10.1007/s12567-022-00464-x.
