@@ -3,9 +3,9 @@ title: "Computational Fluid Dynamics (CFD) study of aircraft wing in transverse 
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2014-03-01-talk-3
-venue: "Annapolis, Maryland"
+venue: "2021 Naval Academy Science and Engineering Conference"
 date: 2021-11-07
-location: "2021 Naval Academy Science and Engineering Conference"
+location: "Annapolis, Maryland"
 ---
 
-[Link](https://www.usna.edu/NASEC/2021/index.php)
+[More information](https://www.usna.edu/NASEC/2021/index.php)
