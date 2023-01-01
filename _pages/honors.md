@@ -11,7 +11,7 @@ redirect_from:
 
 Dean’s Undergraduate Achievement Award, University at Buffalo School of Engineering & Applied Sciences; *May 2022*
 
-National Science Foundation (NSF) Graduate Research Fellowship**; *Apr 2022*
+National Science Foundation (NSF) Graduate Research Fellowship; *Apr 2022*
 
 State University of New York (SUNY) Chancellor’s Award for Student Excellence; *Mar 2022*
 
@@ -19,7 +19,7 @@ NASA/NY Space Grant Fellow - Advisor: Dr. John Crassidis, University at Buffalo;
 
 AIAA YPSE Mid-Atlantic Section Conference: Top presentation - Undergraduate category; *Feb 2022*
 
-DoD SMART Scholarship Semi-Finalist**; *Feb 2022*
+DoD SMART Scholarship Semi-Finalist; *Feb 2022*
 
 AIAA Undergraduate Conference Award - Guidance, Navigation & Control Technical Committee; *Nov 2021*
 
