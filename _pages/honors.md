@@ -19,7 +19,7 @@ redirect_from:
 
 **AIAA YPSE Mid-Atlantic Section Conference: Top presentation - Undergraduate category**; *Feb 2022*
 
-**Department of Defense SMART Scholarship Semi-Finalist**; *Feb 2022*
+**DoD SMART Scholarship Semi-Finalist**; *Feb 2022*
 
 **AIAA Undergraduate Conference Award - AIAA Guidance, Navigation & Control Technical Committee**; *Nov 2021*
 
