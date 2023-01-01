@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-======
-
 **20 Twenties - American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network**; *July 2022*
 
 **Dean’s Undergraduate Achievement Award, University at Buffalo School of Engineering & Applied Sciences**; *May 2022*
