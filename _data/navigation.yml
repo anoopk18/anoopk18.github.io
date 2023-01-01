@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "News"
+  - title: "Honors"
     url: /portfolio/
 
   - title: "Talks"
@@ -11,6 +11,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "CV"
     url: /cv/
