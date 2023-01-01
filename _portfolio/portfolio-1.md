@@ -1,12 +1,14 @@
 ---
-title: "Honors and Awards"
-excerpt: 'Honors and Awards'
+title: "News"
 collection: portfolio
+type: "Honors and Awards"
+excerpt: Honors and Awards
 ---
+
 
 **American Institute of Aeronautics & Astronautics (AIAA) & Aviation Week Network - 20 Twenties**; *July 2022*
 
-**Dean’s Undergraduate Achievement Award, UB School of Engineering & Applied Sciences**; *May 2022*
+**Dean’s Undergraduate Achievement Award, University at Buffalo School of Engineering & Applied Sciences**; *May 2022*
 
 **National Science Foundation (NSF) Graduate Research Fellowship**; *Apr 2022*
 
@@ -20,8 +22,8 @@ collection: portfolio
 
 **AIAA Undergraduate Conference Award, AIAA Guidance, Navigation & Control Technical Committee**; *Nov 2021*
 
-**Undergraduate Researcher Award, UB Mechanical and Aerospace Engineering**; *Apr 2021*
+**Undergraduate Researcher Award, University at Buffalo Mechanical and Aerospace Engineering**; *Apr 2021*
 
 **Barry M. Goldwater Scholar, DoD National Defense Education Programs**; *Mar 2021*
 
-**2020 Leaders in Excellence, UB School of Engineering and Applied Sciences**; *Nov 2020*
+**2020 Leaders in Excellence, University at Buffalo School of Engineering and Applied Sciences**; *Nov 2020*
