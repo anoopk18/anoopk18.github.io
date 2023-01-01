@@ -2,7 +2,6 @@
 title: "News"
 collection: portfolio
 type: "Honors and Awards"
-excerpt: Honors and Awards
 ---
 
 
