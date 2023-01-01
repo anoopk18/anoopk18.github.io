@@ -8,4 +8,4 @@ redirect_from:
  
 ---
 
-I am incredibly grateful to my family, mentors, and friends for their guidance throughout my academic journey. If I can help answer any questions about graduate school, internships, research, or classes, please feel free to contact me by [email](anoop_kiran@brown.edu).
+I am incredibly grateful to my family, mentors, and friends for their guidance throughout my academic journey! If I can help answer any questions about graduate school, internships, or research, please feel free to contact me at ajkiran@brown.edu
