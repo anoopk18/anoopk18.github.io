@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
 Education
 ======
@@ -18,7 +19,7 @@ Education
   
   National Science Foundation (NSF) Graduate Research Fellow
   
-  20 Twenties: American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
+  20 Twenties - American Institute of Aeronautics and Astronautics (AIAA) & Aviation Week Network
   
   
 * **B.S. in Aerospace Engineering** [GPA: 4.0/4.0], May 2022; ***University at Buffalo, The State University of New York***
