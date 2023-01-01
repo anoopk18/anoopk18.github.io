@@ -8,10 +8,4 @@ redirect_from:
  
 ---
 
-Feel free to contact me by [email](anoop_kiran@brown.edu) or by filling the contact form below:
-
-<form action="https://anoopk18.io/f/{contact}" method="post">
- <label for="email">Your Email</label>
- <input name="email" type="email">
- <button type="submit">Submit</button> 
-</form>
+I am incredibly grateful to my family, mentors, and friends for their guidance throughout my academic journey. If I can help answer any questions about graduate school, internships, research, or classes, please feel free to contact me by [email](anoop_kiran@brown.edu).
