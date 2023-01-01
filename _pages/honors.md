@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: "Honors and Awards"
 permalink: /honors/
+title: "Honors and Awards"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
 ---
 
 
