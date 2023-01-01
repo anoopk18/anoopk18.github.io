@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: "Honors"
 collection: portfolio
 type: "Honors and Awards"
----
 
+---
 
 **American Institute of Aeronautics & Astronautics (AIAA) & Aviation Week Network - 20 Twenties**; *July 2022*
 
