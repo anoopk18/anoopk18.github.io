@@ -1,6 +1,6 @@
 ---
 title: "Honors and Awards"
-excerpt: Honors and Awards
+excerpt: 'Honors and Awards'
 collection: portfolio
 ---
 
