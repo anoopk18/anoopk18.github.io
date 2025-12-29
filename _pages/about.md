@@ -22,8 +22,7 @@ Cambridge, supervised by
 [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) under the
 [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
 I am a Girton College member and a Cambridge Trust scholar.
-My research interests are machine learning, natural language processing and
-explainable AI.
+My research interests are machine learning, explainability, interpretability and multilingual NLP.
 
 Previously, I was a researcher at the
 [Visual Data Science Lab](http://visualdslab.com/) at Fundação Getulio Vargas
